@@ -1,2 +1,3 @@
-# Linked-List
-A linked List Implementation in Javascript
+# Linked List
+
+### A linked List Implementation in Javascript
